@@ -45,14 +45,14 @@ h4,h2{
   font-family: "Raleway", sans-serif;
   font-size: 1.3em;
   line-height: 1.5;
-  color: #585858;
+  color: #c742a3;
 }
 
 h3{
   font-family: "Raleway", sans-serif;
   font-size: 1.5em;
   line-height: 2;
-  color: #585858;
+  color: #c742a3;
   font-weight: bold;
 }
 
@@ -124,7 +124,7 @@ filter: drop-shadow(0 0 10px lightgrey);
 }
 
 .contact h2{
-  color: #007BFF;
+  color: #c742a3;
   font-size: 3em;
 }
 
@@ -142,7 +142,9 @@ width:100%;
 position:absolute;
 }
 
-
+.btn-primary{
+  background-color:#c742a3;
+}
 
 footer li{
 display: inline-block;
