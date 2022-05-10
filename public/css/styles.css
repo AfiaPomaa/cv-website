@@ -35,7 +35,7 @@ h1{
 
 }
 
-.btn-pink{
+.btn-primary, .btn-primary:hover{
   background-color: #c742a3;
 }
 
