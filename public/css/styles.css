@@ -63,7 +63,7 @@ h3{
 
 #ballerset{
   font-family: "Bangers", sans-serif;
-  color: #007BFF;
+  color:#c742a3;
   font-size: 2.5em;
 }
 
@@ -102,7 +102,7 @@ h5{
 }
 
 .projects p{
-  color: #007BFF;
+  color: #c742a3;
 }
 
 
@@ -124,7 +124,7 @@ filter: drop-shadow(0 0 10px lightgrey);
 }
 
 .contact h2{
-  color: #007BFF;
+  color: #c742a3;
   font-size: 3em;
 }
 
