@@ -13,6 +13,10 @@ h1, nav a{
 
 }
 
+.color-pink{
+  color:#c742a3;
+}
+
 .intro{
   margin-top: 9%;
 
@@ -31,7 +35,7 @@ h1{
 
 }
 
-.btn-primary{
+.btn-pink{
   background-color: #c742a3;
 }
 
